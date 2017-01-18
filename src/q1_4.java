@@ -39,7 +39,7 @@ public class q1_4 {
         return average;
     }
 
-    private void run(){
+    public void run(){
         for (int i = 0; i < 10000; i++){
             double num = generateNumber();
             findBiggest(num);

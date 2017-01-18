@@ -28,7 +28,7 @@ public class q1_3 {
         }
     }
 
-    private void run(){
+    public void run(){
         inputStrings();
         sortList();
         displayList();

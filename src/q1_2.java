@@ -16,7 +16,7 @@ public class q1_2 {
 
     }
 
-    private void calculateAverage(){
+    public void calculateAverage(){
         double sum = 0;
 
         inputDouble();
