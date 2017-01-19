@@ -65,6 +65,11 @@ public class q1_8 {
             if (a == 4){
                 break;
             }
+            else if (a > 4){
+                System.out.println("Input valid selection: ");
+                continue;
+            }
+
             double b = inputData();
             switch (a){
                 case 1:
